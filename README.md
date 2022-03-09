@@ -25,5 +25,5 @@ for installing the app or code
 
 
 # That's it!
-if i missed something, i don't know give a comments or something this is my first project.
+if i missed something, i don't know.. give a comments or something this is my first project.
 enjoy.
